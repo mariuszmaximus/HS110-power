@@ -1,3 +1,6 @@
 [submodule "tplink-smartplug"]
 	path = tplink-smartplug
 	url = https://github.com/mariuszmaximus/tplink-smartplug.git
+[submodule "python-3.9.0-embed-amd64"]
+	path = python-3.9.0-embed-amd64
+	url = https://github.com/mariuszmaximus/python-3.9.0-embed-amd64.git
